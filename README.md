@@ -60,7 +60,6 @@ Consulta de horários, unidades, professores e disponibilidade.
 Visualização do plano, valores em aberto e histórico de cobranças.
 
 ![Mensalidades e cobranças](Tela%208.png)
-(TELA EM MODO RESPONSIVO)
 
 ### Painel de gestão
 
